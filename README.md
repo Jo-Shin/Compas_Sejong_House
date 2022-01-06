@@ -1,4 +1,7 @@
 # [Compas_세종시 주택 시장 특성분석](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2102_001)
+- Compas 주관, 세종시 주택 시장의 특성을 pydeck을 이용해 시각화
+- 팀원: 조신형, 김보아, 임낙준 (연세대학교 데이터사이언스 학회 Data Science Lab)
+---
 
 **0. 발표자료_세종시 부동산 시장 분석.pptx**
 - 분석 결과를 설명과 함께 정리한 발표 자료입니다. 
